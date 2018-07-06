@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "name": "Dell Inspirion",
+      "description": "Dell Inspirion 15",
+      "category": "Laptops",
+      "producer": "Dell",
+      "supplier": "Laptops d.o.o.",
+      "price": 600
+    },
+    {
+      "productId": 2,
+      "name": "Samsung S9",
+      "description": "Lenovo Thinkpad Laptop",
+      "category": "Mobiles",
+      "producer": "Samsung",
+      "supplier": "Mobiles d.o.o.",
+      "price": 500
+    },
+    {
+      "productId": 3,
+      "name": "HP Desktop",
+      "description": "HP 285 Pro",
+      "category": "Desktops",
+      "producer": "HP",
+      "supplier": "Desktops d.o.o.",
+      "price": 700
+    },
+    {
+      "productId": 4,
+      "name": "IPhone",
+      "description": "IPhone X",
+      "category": "Mobiles",
+      "producer": "Apple",
+      "supplier": "Mobiles d.o.o.",
+      "price": 850
+    },
+    {
+      "productId": 5,
+      "name": "Dell Vostro",
+      "description": "Dell Vostro 3668 i7",
+      "category": "Desktops",
+      "producer": "Dell Vostro",
+      "supplier": "Desktops d.o.o.",
+      "price": 700
+    }
+  ]
+}
